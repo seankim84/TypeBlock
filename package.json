@@ -1,0 +1,7 @@
+{
+  "name": "TypeBlock",
+  "version": "1.0.0",
+  "description": "TypeScript with BlockChain",
+  "main": "index.js",
+  "license": "MIT"
+}
